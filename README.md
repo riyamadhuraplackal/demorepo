@@ -1,2 +1,2 @@
 # demorepo
-updation in main branch
+welcome to stc
